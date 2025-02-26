@@ -12,3 +12,8 @@ Los ejercicios de flexibilidad son actividades que ayudan a mejorar la capacidad
 1.Comienza con un calentamiento de 5-10 minutos.
 2.Realiza estiramientos dinamicos antes del entrenamiento y estiramientos estaticos despues
 3.Manten cada estiramiento estatico durante 15-30 segundos
+
+## Consejos
+-No fuerces los estiramientos hasta sentir dolor.
+-Manten una respiracion constante y relajada.
+-Inclute estiramientos para todos los grupos musculares principales
