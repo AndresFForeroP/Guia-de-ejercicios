@@ -12,3 +12,8 @@ Los ejercicios de fuerza son actividades que implican el uso de resistencia para
 1.Comienza un calentamiento de 5-10 minutos.
 2.Realiza el ejercicio(pesas,maquinas,bandas de resistencia) en series de repeticiones adecuadas.
 3.Termina con un enfriamiento y estiramientos
+
+## Consejos
+-Manten una postura adecuada
+-aumenta la carga progresivamente
+-no olvides descansar entre series y entrenamientos
