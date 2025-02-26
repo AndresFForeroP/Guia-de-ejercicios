@@ -11,3 +11,8 @@ Pilates es un método de ejercicio que se enfoca en fortalecer los músculos pro
 ## Instrucciones
 1.Comienza con un calentamiento de 5-10 minutos
 2.Realiza una serie de ejercicios de pilates como hundred,el roll-up y el swan, manteniendo un control constante
+
+## Consejos
+-Manten una respiracion fluida y controlada
+-Realiza los movimientos de manera lenta y controlada
+-Concentrate en la alineacion y la postura correcta durante todo el ejercicio
