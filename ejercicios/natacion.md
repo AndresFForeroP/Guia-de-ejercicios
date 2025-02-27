@@ -8,3 +8,8 @@ La natación es un ejercicio que involucra mover el cuerpo a través del agua us
 - Fortalece y tonifica los músculos de todo el cuerpo.
 - Ayuda a mejorar la flexibilidad y el rango de movimiento.
 - Es de bajo impacto y reduce el estrés en las articulaciones.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, como caminar o hacer estiramientos ligeros.
+2. Realiza una sesión de natación de al menos 30 minutos, variando los estilos (crol, espalda, braza, mariposa) según tu nivel de habilidad.
+3. Termina con un enfriamiento y estiramientos, especialmente para los brazos y los hombros.
