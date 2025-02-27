@@ -13,3 +13,9 @@ El ciclismo es una actividad que involucra andar en bicicleta y que puede ser ta
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza una sesión de ciclismo (en carretera, montaña, o bicicleta estática) durante al menos 30 minutos.
 3. Termina con un enfriamiento y estiramientos, prestando especial atención a las piernas.
+
+## Consejos
+- Usa el equipo adecuado (casco, guantes, ropa cómoda y reflectante).
+- Mantén una postura correcta y ajusta bien el asiento de la bicicleta.
+- Hidrátate antes, durante y después de la actividad.
+- Si eres principiante, comienza con rutas planas y de menor duración.
